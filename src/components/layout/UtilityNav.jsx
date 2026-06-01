@@ -3,29 +3,31 @@ import { Globe } from 'lucide-react'
 export default function UtilityNav() {
   return (
     <div className="bg-ink text-white/50 text-[11.5px]">
-      <div className="max-w-[1320px] mx-auto px-6 h-9 flex items-center justify-between">
-        <div className="flex items-center gap-5">
-          <div className="flex items-center gap-1.5 text-white/70">
+      <div className="max-w-[1320px] mx-auto px-4 sm:px-6 min-h-9 flex flex-wrap items-center justify-between gap-x-4 gap-y-1.5 py-1.5 sm:py-0 sm:h-9">
+
+        {/* Left: Region links */}
+        <div className="flex items-center gap-3 sm:gap-5 flex-wrap">
+          <div className="flex items-center gap-1.5 text-white/70 shrink-0">
             <Globe size={11} />
-            <span>India</span>
+            <span>Singapore</span>
           </div>
-          <div className="w-px h-3 bg-white/10" />
-          {['Global', 'Singapore', 'UAE'].map(r => (
-            <a key={r} href="#" className="hover:text-lime transition-colors duration-150">{r}</a>
-          ))}
+          <div className="hidden sm:block w-px h-3 bg-white/10 shrink-0" />
+          Global
         </div>
-        <div className="flex items-center gap-5">
-          {['Member Login', 'Verify Certificate', 'Find a Partner'].map((l, i) => (
-            <span key={l} className="flex items-center gap-5">
-              {i > 0 && <span className="w-px h-3 bg-white/10" />}
-              <a href="#" className="hover:text-lime transition-colors duration-150">{l}</a>
+
+        {/* Right: Utility links */}
+        <div className="flex items-center gap-3 sm:gap-5 flex-wrap">
+          {[ 'Verify Certificate', 'Find a Partner'].map((l, i) => (
+            <span key={l} className="flex items-center gap-3 sm:gap-5">
+              {i > 0 && <span className="hidden sm:block w-px h-3 bg-white/10 shrink-0" />}
+              <a href="#" className="hover:text-lime transition-colors duration-150 whitespace-nowrap">
+                {l}
+              </a>
             </span>
           ))}
-          <div className="w-px h-3 bg-white/10" />
-          <a href="#" className="bg-lime text-white px-3.5 py-1 rounded-full text-[10.5px] font-bold tracking-wide hover:bg-lime-dark transition-colors duration-150">
-            Apply Now
-          </a>
+          <div className="hidden sm:block w-px h-3 bg-white/10 shrink-0" />
         </div>
+
       </div>
     </div>
   )
