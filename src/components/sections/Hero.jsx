@@ -1,13 +1,13 @@
 import { ArrowRight, CheckCircle2, Sparkles, Award, Globe, Users } from 'lucide-react'
 
 const stats = [
-  { n: '9', label: 'Certifications', bg: 'bg-lime' },
+  { n: '9+', label: 'Certifications', bg: 'bg-lime' },
   { n: '4', label: 'Partner Institutes', bg: 'bg-ink-soft' },
   { n: '2', label: 'Countries', bg: 'bg-ink-soft' },
-  { n: '50', label: 'Certified Professionals', bg: 'bg-ink-soft' },
+  { n: '50+', label: 'Certified Professionals', bg: 'bg-ink-soft' },
 ]
 
-const trust = ['ISO 21001 Certified', 'SkillsFuture Aligned', 'NSDC Recognised', 'Blockchain Credentials']
+const trust = ['Fintech Learning', 'SkillsFuture Aligned', ' AI Powered']
 
 const badges = [
   { icon: Award, label: 'Blockchain Certificates', sub: 'Instantly verifiable globally', color: 'text-lime' },
@@ -26,7 +26,7 @@ export default function Hero() {
           <div>
             <div className="inline-flex items-center gap-2 bg-white/10 border border-white/15 text-white/80 px-4 py-2 rounded-full text-[12px] font-semibold mb-7">
               <Sparkles size={13} className="text-lime" />
-              Global Accreditation &amp; Examination Body · Est. 2024
+              Global Accreditation &amp; Examination Body · Est. 2026
             </div>
             <h1 className="font-heading text-[54px] sm:text-[62px] font-bold text-lime leading-[1.04] tracking-tight">IICFE</h1>
             <p className="text-[16.5px] text-white/50 font-light leading-relaxed max-w-[520px] mb-3">
@@ -34,11 +34,7 @@ export default function Hero() {
             </p>
             <h1 className="font-heading text-[40px] sm:text-[41px] font-bold text-white leading-[1.04] tracking-tight mb-6">
               The Global<br />
-              Standard for{' '}
-              <span className="relative inline-block">
-                <span className="relative z-10">Commerce,</span>
-                <span className="absolute bottom-1 left-0 right-0 h-3.5 bg-lime -z-0 rounded" aria-hidden />
-              </span>
+              Standard for{' '}Commerce,
               <br />Finance &amp; Entrepreneurship
             </h1>
 
