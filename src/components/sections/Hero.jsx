@@ -10,9 +10,9 @@ const stats = [
 const trust = ['Fintech Learning', 'SkillsFuture Aligned', ' AI Powered']
 
 const badges = [
-  { icon: Award, label: 'Blockchain Certificates', sub: 'Instantly verifiable globally', color: 'text-lime' },
+  { icon: Award, label: 'Skill Based Certificates', sub: 'Instantly verifiable globally', color: 'text-lime' },
   { icon: Globe, label: '2 Countries', sub: 'Active partner network', color: 'text-cyan-400' },
-  { icon: Users, label: '50 Employers', sub: 'Recognise IICFE credentials', color: 'text-violet-400' },
+  { icon: Users, label: '50+ Employers', sub: 'Recognise IICFE credentials', color: 'text-violet-400' },
 ]
 
 export default function Hero() {
@@ -109,12 +109,11 @@ export default function Hero() {
                 AI-Powered Socratic Assessment
               </div>
               <h2 className="font-heading text-[28px] lg:text-[32px] font-bold text-white leading-snug mb-4">
-                The only certification body that lets{' '}
-                <em className="not-italic text-lime">AI examine you</em> — not just test you.
+                Certified by industry.{' '}Examined by
+                <em className="not-italic text-lime">intelligence.</em>
               </h2>
               <p className="text-[14px] text-white font-light leading-relaxed mb-6">
-                Our adaptive Socratic engine probes your reasoning depth — not just recall.
-                Real industry scenarios, live competency scoring, blockchain credentials.
+               Powered by an adaptive Socratic engine that evaluates depth of reasoning over memory. Industry-grade scenarios, live competency scoring, and AI-issued digital credentials.
               </p>
               <a href="#ai-assessment" className="inline-flex items-center gap-2 bg-lime text-white px-5 py-2.5 rounded-xl text-[13.5px] font-bold hover:bg-lime-dark transition-colors cursor-pointer">
                 Try it free <ArrowRight size={14} />
