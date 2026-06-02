@@ -22,7 +22,7 @@ const cards = [
   },
   {
     icon: Calendar,
-    title: "Exam Schedules",
+    title: "Exam Schedule",
     desc: "Upcoming dates — SG, India, UAE, Online.",
     cta: "View dates",
     bg: "bg-teal-500/20",
@@ -46,7 +46,7 @@ const cards = [
   },
   {
     icon: ShieldCheck,
-    title: "Verify a Certificate",
+    title: "Verify Certificate",
     desc: "Instant blockchain credential check.",
     cta: "Verify",
     bg: "bg-amber-500/20",
