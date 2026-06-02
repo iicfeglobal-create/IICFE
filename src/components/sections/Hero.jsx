@@ -109,7 +109,7 @@ export default function Hero() {
                 AI-Powered Socratic Assessment
               </div>
               <h2 className="font-heading text-[28px] lg:text-[32px] font-bold text-white leading-snug mb-4">
-                Certified by industry.{' '}Examined by
+                Certified by industry.{' '}Examined by 
                 <em className="not-italic text-lime">intelligence.</em>
               </h2>
               <p className="text-[14px] text-white font-light leading-relaxed mb-6">
