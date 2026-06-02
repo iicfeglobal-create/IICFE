@@ -33,7 +33,7 @@ export default function App() {
         <Hero />
         <AudienceTabs />
         <QuickLinks />
-        <Certifications />
+        {/* <Certifications /> */}
         <AccreditationBody />
         <AIAssessment />
         <CreditFramework />
