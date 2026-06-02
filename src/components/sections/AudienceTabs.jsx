@@ -6,8 +6,7 @@ const tabs = [
   { icon: Briefcase,     label: 'Working Professionals', color: 'bg-teal-500/30' },
   { icon: Rocket,        label: 'Aspiring Entrepreneurs', color: 'bg-amber-500/30' },
   { icon: Building2,     label: 'Employers & Corporates', color: 'bg-violet-500/30' },
-  { icon: GraduationCap, label: 'Universities & Institutes', color: 'bg-rose-500/30' },
-  { icon: Globe,         label: 'International Learners', color: 'bg-sky-500/30' },
+  { icon: GraduationCap, label: 'Universities & Institutes', color: 'bg-rose-500/30' }
 ]
 
 export default function AudienceTabs() {
