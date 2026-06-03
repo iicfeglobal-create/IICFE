@@ -1,17 +1,17 @@
 import { ArrowUpRight } from 'lucide-react'
 
 const pillars = [
-  { num:'01', title:'Curriculum Standards Authority', desc:'All programs designed by practitioner panels. IICFE Academic Council validates every course syllabus for industry relevance.' },
-  { num:'02', title:'Global Examination Board',        desc:'Standardised AI-powered assessments across all certified centres. Consistent grading regardless of geography.' },
-  { num:'03', title:'Digital Credential Issuer',       desc:'Blockchain-backed certificates, verifiable LinkedIn badges, and portable skill transcripts for every IICFE graduate.' },
-  { num:'04', title:'Learning Partner Approval',       desc:'Universities, EdTech firms and corporate academies earn IICFE approval to deliver certified programs under our quality framework.' },
+  { num:'01', title:'Curriculum Standards Authority', desc:'Industry practitioners design every program. Our Academic Council ensures every syllabus meets real employer demand.' },
+  { num:'02', title:'Global Examination Board',        desc:'AI-powered assessments. One rigorous standard. Every certified centre, everywhere in the world.' },
+  { num:'03', title:'Digital Credential Issuer',       desc:'Every graduate receives tamper-proof digital certificates, LinkedIn badges, and a portable skill transcript.' },
+  { num:'04', title:'Learning Partner Approval',       desc:'Universities, corporates, and EdTech platforms earn the right to deliver IICFE-certified programs under our quality framework.' },
 ]
 
 const tiers = [
-  { badge:'Platinum',   cls:'bg-amber-400 text-ink',         title:'Full accreditation & co-branding',   sub:'Exceptional outcomes · Annual joint review' },
-  { badge:'Gold',       cls:'bg-amber-200 text-amber-900',   title:'Accredited delivery rights',         sub:'Strong academic delivery · Faculty certification' },
-  { badge:'Silver',     cls:'bg-slate-200 text-slate-800',   title:'Limited delivery rights',            sub:'Monitored 12-month probationary period' },
-  { badge:'Registered', cls:'bg-slate-100 text-slate-600',   title:'Entry-level affiliation',            sub:'Workshop & short-course delivery only' },
+  { badge:'Platinum',   cls:'bg-amber-400 text-ink',         title:'Full Accreditation & Co-Branding',   sub:'Exceptional outcomes · Annual joint review' },
+  { badge:'Gold',       cls:'bg-amber-200 text-amber-900',   title:'Accredited Delivery Rights',         sub:'Strong academic delivery · Faculty certification' },
+  { badge:'Silver',     cls:'bg-slate-200 text-slate-800',   title:'Limited Delivery Rights',            sub:'Monitored 12-month probationary period' },
+  { badge:'Registered', cls:'bg-slate-100 text-slate-600',   title:'Entry-Level Affiliation',            sub:'Workshop & short-course delivery only' },
 ]
 
 export default function AccreditationBody() {
@@ -27,8 +27,7 @@ export default function AccreditationBody() {
             <span className="text-white/50 font-semibold">Accreditation Body</span>
           </h2>
           <p className="text-[16px] text-white/55 font-semibold leading-relaxed">
-            Like ACCA and IMA, IICFE does not merely teach — it sets standards. We design curriculum,
-            conduct examinations, and issue certifications recognised by employers worldwide.
+             IICFE exists to set a standard, not merely deliver a course. We design the curriculum, conduct the examination, and issue the credential — recognised by employers and institutions across the globe.
           </p>
         </div>
 
@@ -64,8 +63,8 @@ export default function AccreditationBody() {
           {/* Right — partner tiers */}
           <div className="bg-ink rounded-3xl border-2 border-white/10 p-8 lg:p-10 flex flex-col">
             <p className="text-[11px] font-bold tracking-[2px] uppercase text-teal-400 mb-2">Approved Learning Partner Network</p>
-            <h3 className="font-heading text-[24px] font-bold text-white mb-2">Join 200+ partner institutions</h3>
-            <p className="text-[13.5px] text-white/45 font-light mb-8">Delivering IICFE-certified programs globally across 25 countries</p>
+            <h3 className="font-heading text-[24px] font-bold text-white mb-2">Join an exclusive network of accredited institutions worldwide.</h3>
+            <p className="text-[13.5px] text-white/45 font-light mb-8">Globally delivered. Universally recognised.</p>
 
             {/* Partner logos strip */}
             <div className="grid grid-cols-3 gap-3 mb-8">
