@@ -1,7 +1,7 @@
 const links = {
   'Certifications':    ['Finance Programs','Entrepreneurship','Commerce','Employability','FinTech Stream','Cyber Security'],
-  'Study with IICFE':  ['Find your pathway','Exam schedules','Online learning','AI Assessment','Credit framework','Student login'],
-  'Partners':          ['University partners','Corporate training','EdTech licensing','Apply for accreditation','Partner portal','Partner directory'],
+  'Study with IICFE':  ['Find your pathway','Examination schedules','AI Assessment Engine','Credit framework','Student login','Verify certificate'],
+  'INSTITUTION':          ['University partners','Corporate training','EdTech licensing','Apply for accreditation','Partner portal','Partner directory'],
   'Institution':       ['About IICFE','Academic Council','Global offices','Newsroom','Research','Verify certificate'],
 }
 
