@@ -42,9 +42,9 @@ export default function Footer() {
           {/* Links */}
           {Object.entries(links).map(([section, items]) => (
             <div key={section}>
-              <h5 className="text-[20px] font-bold tracking-[1.5px] uppercase text-white mb-5">{section}</h5>
+              <h5 className="text-[20px] font-bold tracking-[1.5px] uppercase text-white mr-3 ml-3 mb-5">{section}</h5>
               {items.map(item => (
-                <a key={item} href="#" className="block text-[13px] text-white/60 hover:text-white mb-3 font-light transition-colors duration-150">{item}</a>
+                <a key={item} href="#" className="block text-[17px] text-white/60 hover:text-white mb-3 font-light transition-colors duration-150">{item}</a>
               ))}
             </div>
           ))}
