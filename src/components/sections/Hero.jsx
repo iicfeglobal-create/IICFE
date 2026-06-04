@@ -26,7 +26,7 @@ export default function Hero() {
           <div>
             <div className="inline-flex items-center gap-2 bg-white/10 border border-white/15 text-white/80 px-4 py-2 rounded-full text-[12px] font-semibold mb-7">
               <Sparkles size={13} className="text-lime" />
-              Global Accreditation &amp; Examination Body.
+              Global Accreditation &amp; Examination Body
             </div>
             <h1 className="font-heading text-[54px] sm:text-[62px] font-bold text-lime leading-[1.04] tracking-tight">IICFE</h1>
             <p className="text-[16.5px] text-white/50 font-light leading-relaxed max-w-[520px] mb-3">
