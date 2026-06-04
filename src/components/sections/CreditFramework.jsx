@@ -21,8 +21,7 @@ export default function CreditFramework() {
             </h2>
           </div>
           <p className="text-[15px] text-white/45 font-light leading-relaxed max-w-[400px]">
-            Each 3-credit program contributes toward a recognised professional designation.
-            Progress within any stream at your own pace.
+            Every 3-credit program builds toward a globally recognised professional designation. Advance within your chosen stream — entirely at your own pace.
           </p>
         </div>
 
