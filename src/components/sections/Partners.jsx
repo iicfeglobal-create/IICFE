@@ -6,7 +6,7 @@ const partners = [
     img: 'https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=500&q=70&auto=format&fit=crop',
     imgAlt: 'University campus building',
     title: 'Universities & Colleges',
-    desc: 'Integrate IICFE certifications into your curriculum. Students earn academic credentials AND an IICFE professional designation.',
+    desc: 'Embed a globally recognised professional certification within your academic curriculum. Your students graduate with more than a degree — they carry an IICFE designation that employers actively seek.',
     cta: 'University partnership',
   },
   {
@@ -14,15 +14,15 @@ const partners = [
     img: 'https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=500&q=70&auto=format&fit=crop',
     imgAlt: 'Corporate office building',
     title: 'Corporates & Banks',
-    desc: 'Upskill your workforce with bespoke IICFE programs in finance, FinTech, data analytics, entrepreneurship and leadership.',
+    desc: 'Equip your workforce with the skills the industry demands. IICFE designs bespoke programs in finance, FinTech, data analytics, entrepreneurship and leadership — built around your organisations goals.',
     cta: 'Corporate solutions',
   },
   {
     icon: Scale, bg: 'bg-amber-400', iconColor: 'text-ink',
     img: 'https://images.unsplash.com/photo-1575505586569-646b2ca898fc?w=500&q=70&auto=format&fit=crop',
-    imgAlt: 'Government institution',
-    title: 'Government & Skill Agencies',
-    desc: "Align national employability initiatives with IICFE's globally benchmarked skill certification and entrepreneurship framework.",
+    imgAlt: 'Learning Partners',
+    title: 'Learning Partners',
+    desc: "Earn accreditation to deliver IICFE-certified programs within your institution. Whether a training academy, coaching institute, or independent learning centre — IICFE accreditation elevates your credibility and connects your learners to a globally recognised professional standard.",
     cta: 'Government partnerships',
   },
   {
@@ -30,7 +30,7 @@ const partners = [
     img: 'https://images.unsplash.com/photo-1551434678-e076c223a692?w=500&q=70&auto=format&fit=crop',
     imgAlt: 'EdTech platform and digital learning',
     title: 'EdTech Platforms',
-    desc: 'License the IICFE curriculum, examination rights, and AI assessment engine to power globally recognised certifications on your platform.',
+    desc: 'License the IICFE curriculum, examination authority, and AI assessment engine. Power your platform with professional certifications that carry genuine global credibility.',
     cta: 'EdTech licensing',
   },
 ]
@@ -46,7 +46,7 @@ export default function Partners() {
             <span className="text-white/35 font-light">Anywhere in the World</span>
           </h2>
           <p className="text-[15.5px] text-white/50 font-light leading-relaxed">
-            Four types of institutions can partner with IICFE to deliver globally recognised certifications under our accreditation framework.
+            Selected institutions earn the right to deliver IICFE-certified programs under our accreditation framework — bringing a globally recognised professional standard to their learners.
           </p>
         </div>
 
