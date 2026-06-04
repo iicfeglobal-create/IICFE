@@ -25,8 +25,7 @@ export default function MemberBanner() {
                 Ready to get certified<br />and go global?
               </h2>
               <p className="text-[16px] text-white/55 font-light leading-relaxed">
-                Students, professionals, and institutions in 25+ countries have already chosen IICFE.
-                Your career transformation starts here.
+                Professionals worldwide have already taken the step. Your career transformation starts here.
               </p>
             </div>
             <div className="flex flex-col gap-3 flex-shrink-0">
