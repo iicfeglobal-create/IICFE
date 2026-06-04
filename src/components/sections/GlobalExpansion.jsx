@@ -1,8 +1,8 @@
 const phases = [
-  { num:'1', title:'The Core',           desc:'Singapore HQ, flagship courses, online baseline, initial partnerships.', markets:['Singapore','India','UAE'],        active:true },
-  { num:'2', title:'Deepening Roots',    desc:'India expansion, corporate verticals, university tie-ups, placement ecosystem.', markets:['Malaysia','Indonesia','Sri Lanka'], active:false },
-  { num:'3', title:'Regional Dominance', desc:'Southeast Asia, Middle East & Africa entry. Licensing model activated.', markets:['Gulf','Africa','S. Asia'],         active:false },
-  { num:'4', title:'Global Reach',       desc:'Multi-country campuses, venture incubation arm, global digital credentials.', markets:['Europe','Americas','Global'],      active:false },
+  { num:'1', title:'The Foundation',           desc:'Establishing the IICFE standard. Flagship certifications launched, examination infrastructure built, and the first cohort of accredited institutions onboarded.', markets:['Singapore','India','UAE'],        active:true },
+  { num:'2', title:'Deepening Roots',    desc:'Expanding the partner network across key markets. Corporate training verticals activated. University integrations and placement ecosystems come online.', markets:['Malaysia','Indonesia','Sri Lanka'], active:false },
+  { num:'3', title:'Regional Dominance', desc:'The IICFE licensing model scales across new regions. More institutions, more candidates, one uncompromising standard.', markets:['Gulf','Africa','S. Asia'],         active:false },
+  { num:'4', title:'Global Reach',       desc:'A truly borderless institution. Multi-market delivery, a venture incubation arm, and IICFE credentials recognised as the definitive professional standard worldwide.', markets:['Europe','Americas','Global'],      active:false },
 ]
 
 export default function GlobalExpansion() {
