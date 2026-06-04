@@ -25,7 +25,7 @@ export default function Footer() {
                 className="h-10 w-auto object-contain"
               />
             </div>
-            <p className="text-[20px] text-white/65 leading-[1.75] font-light max-w-[260px] mb-6">
+            <p className="text-[17px] text-white/65 leading-[1.75] font-light max-w-[260px] mb-6">
               International Institute of Commerce, Finance & Entrepreneurship — Setting the global standard for professional education in commerce, finance and entrepreneurship.
             </p>
             <div className="flex gap-2.5">
@@ -42,7 +42,7 @@ export default function Footer() {
           {/* Links */}
           {Object.entries(links).map(([section, items]) => (
             <div key={section}>
-              <h5 className="text-[13px] font-bold tracking-[1.5px] uppercase text-white mb-5">{section}</h5>
+              <h5 className="text-[20px] font-bold tracking-[1.5px] uppercase text-white mb-5">{section}</h5>
               {items.map(item => (
                 <a key={item} href="#" className="block text-[13px] text-white/60 hover:text-white mb-3 font-light transition-colors duration-150">{item}</a>
               ))}
