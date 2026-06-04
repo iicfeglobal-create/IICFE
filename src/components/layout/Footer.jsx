@@ -27,7 +27,7 @@ export default function Footer() {
               />
             </div>
             <p className="text-[13px] text-white/65 leading-[1.75] font-light max-w-[260px] mb-6">
-              International Institute of Commerce, Finance &amp; Entrepreneurship — Asia's global accreditation and examination body for professional education.
+              International Institute of Commerce, Finance & Entrepreneurship — Setting the global standard for professional education in commerce, finance and entrepreneurship.
             </p>
             <div className="flex gap-2.5">
               {socials.map(({ label, title }) => (
