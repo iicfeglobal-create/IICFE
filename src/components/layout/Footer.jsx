@@ -42,7 +42,7 @@ export default function Footer() {
           {/* Links */}
           {Object.entries(links).map(([section, items]) => (
             <div key={section}>
-              <h5 className="text-[10.5px] font-bold tracking-[1.5px] uppercase text-white/75 mb-5">{section}</h5>
+              <h5 className="text-[13px] font-bold tracking-[1.5px] uppercase text-white mb-5">{section}</h5>
               {items.map(item => (
                 <a key={item} href="#" className="block text-[13px] text-white/60 hover:text-white mb-3 font-light transition-colors duration-150">{item}</a>
               ))}
@@ -52,7 +52,7 @@ export default function Footer() {
       </div>
 
       <div className="max-w-[1320px] mx-auto px-6 py-5 flex flex-col sm:flex-row justify-between items-center gap-3 text-[12px] text-white/55">
-        <span>© 2025 IICFE Singapore Pte. Ltd. All rights reserved.</span>
+        <span>© 2026 IICFE Singapore Pte. Ltd. All rights reserved.</span>
         <div className="flex flex-wrap justify-center gap-5">
           {['Privacy Policy','Terms of Use','Cookie Policy','Accreditation Standards','Sitemap'].map(l => (
             <a key={l} href="#" className="text-white/55 hover:text-white transition-colors">{l}</a>
