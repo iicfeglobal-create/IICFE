@@ -12,8 +12,8 @@ export default function GlobalExpansion() {
         <div className="text-center max-w-[480px] mx-auto mb-14">
           <p className="text-[11px] font-bold tracking-[2px] uppercase text-teal-400 mb-3">Global Roadmap</p>
           <h2 className="font-heading text-[40px] lg:text-[52px] font-bold text-white leading-tight">
-            Building a Truly<br />
-            <span className="text-white/30 font-light">Global Institution</span>
+            Building a Standard<br />
+            <span className="text-white/30 font-light">That Travels the World.</span>
           </h2>
         </div>
 
