@@ -25,7 +25,7 @@ export default function Footer() {
                 className="h-10 w-auto object-contain"
               />
             </div>
-            <p className="text-[13px] text-white/65 leading-[1.75] font-light max-w-[260px] mb-6">
+            <p className="text-[20px] text-white/65 leading-[1.75] font-light max-w-[260px] mb-6">
               International Institute of Commerce, Finance & Entrepreneurship — Setting the global standard for professional education in commerce, finance and entrepreneurship.
             </p>
             <div className="flex gap-2.5">
