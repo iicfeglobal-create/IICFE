@@ -1,7 +1,6 @@
 const levels = [
   { num:'3',  credits:'Credits · 45 Hours',    level:'Foundation',   desc:'Your first step into professional practice. Short-duration programs that establish domain awareness and introductory competency.', bg:'bg-white/10', num_color:'text-white/40' },
-  { num:'9',  credits:'Credits · 1–3 Months',  level:'Practitioner', desc:'Workplace-ready capability, built for immediate application. The benchmark for entry-level professional certification.
-', bg:'bg-teal-500/20', num_color:'text-teal-300' },
+  { num:'9',  credits:'Credits · 1–3 Months',  level:'Practitioner', desc:'Workplace-ready capability, built for immediate application. The benchmark for entry-level professional certification.', bg:'bg-teal-500/20', num_color:'text-teal-300' },
   { num:'12', credits:'Credits · 3–4 Months',  level:'Specialist',   desc:'Deep domain expertise, formally recognised. The credential for professionals who have gone beyond the basics.', bg:'bg-violet-500/20', num_color:'text-violet-300' },
   { num:'15', credits:'Credits · 3–6 Months',  level:'Expert',       desc:'The pinnacle of IICFE certification. High-level industry mastery, carrying the weight of a globally recognised professional designation.', bg:'bg-lime', num_color:'text-white', featured:true },
 ]
