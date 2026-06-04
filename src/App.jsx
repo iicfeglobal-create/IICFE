@@ -40,7 +40,7 @@ export default function App() {
         <Partners />
         <GlobalExpansion />
         <InsightStrip />
-        <NewsEvents />
+        {/* <NewsEvents /> */}
         <MemberBanner />
       </main>
       <Footer />
