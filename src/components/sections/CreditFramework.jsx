@@ -1,8 +1,9 @@
 const levels = [
-  { num:'3',  credits:'Credits · 45 Hours',    level:'Foundation',   desc:'Introductory professional competency. Awareness workshops, 1-day and 1-week programs.', bg:'bg-white/10', num_color:'text-white/40' },
-  { num:'9',  credits:'Credits · 1–3 Months',  level:'Practitioner', desc:'Practical employability capability. Job-ready professional certifications.', bg:'bg-teal-500/20', num_color:'text-teal-300' },
-  { num:'12', credits:'Credits · 3–4 Months',  level:'Specialist',   desc:'Advanced domain specialisation. Industry-recognised expertise credential.', bg:'bg-violet-500/20', num_color:'text-violet-300' },
-  { num:'15', credits:'Credits · 3–6 Months',  level:'Expert',       desc:'High-level industry mastery. Global professional designation equivalent.', bg:'bg-lime', num_color:'text-white', featured:true },
+  { num:'3',  credits:'Credits · 45 Hours',    level:'Foundation',   desc:'Your first step into professional practice. Short-duration programs that establish domain awareness and introductory competency.', bg:'bg-white/10', num_color:'text-white/40' },
+  { num:'9',  credits:'Credits · 1–3 Months',  level:'Practitioner', desc:'Workplace-ready capability, built for immediate application. The benchmark for entry-level professional certification.
+', bg:'bg-teal-500/20', num_color:'text-teal-300' },
+  { num:'12', credits:'Credits · 3–4 Months',  level:'Specialist',   desc:'Deep domain expertise, formally recognised. The credential for professionals who have gone beyond the basics.', bg:'bg-violet-500/20', num_color:'text-violet-300' },
+  { num:'15', credits:'Credits · 3–6 Months',  level:'Expert',       desc:'The pinnacle of IICFE certification. High-level industry mastery, carrying the weight of a globally recognised professional designation.', bg:'bg-lime', num_color:'text-white', featured:true },
 ]
 
 const streams = ['FinTech','Financial Markets','Fraud Examination','Cyber Security','Entrepreneurship','Startup Management','Commerce Operations','Digital Business','Data Analytics','AI in Business']
