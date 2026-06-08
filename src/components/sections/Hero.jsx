@@ -110,7 +110,7 @@ export default function Hero() {
               </div>
               <h2 className="font-heading text-[28px] lg:text-[32px] font-bold text-white leading-snug mb-4">
                 Certified by industry.{' '}Examined by 
-                <em className="not-italic text-lime">intelligence.</em>
+                <em className="not-italic text-lime"> intelligence.</em>
               </h2>
               <p className="text-[14px] text-white font-light leading-relaxed mb-6">
                Powered by an adaptive Socratic engine that evaluates depth of reasoning over memory. Industry-grade scenarios, live competency scoring, and AI-issued digital credentials.
@@ -120,7 +120,7 @@ export default function Hero() {
               </a>
             </div>
             {/* Right cards */}
-            <div className="flex flex-col gap-3 pb-10 min-w-[260px] flex-shrink-0">
+            <div className="flex flex-col gap-3 pb-10 min-w-[400px] flex-shrink-0">
               {badges.map(({ icon: Icon, label, sub, color }) => (
                 <div key={label} className="flex items-center gap-3 bg-white/[0.07] border border-white/10 rounded-xl px-4 py-3 hover:bg-white/10 transition-colors cursor-default">
                   <Icon size={18} className={color} />
