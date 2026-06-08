@@ -236,7 +236,7 @@ export default function Navbar() {
             Member Login
           </a>
           <a href="#" className="px-5 py-2.5 bg-lime hover:bg-ink-soft text-white text-[13px] font-bold rounded-xl transition-colors duration-150 flex items-center gap-1.5">
-            Apply Now <span className="text-lime">→</span>
+            Apply Now →
           </a>
         </div>
 
