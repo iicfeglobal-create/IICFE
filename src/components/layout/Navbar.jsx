@@ -118,7 +118,7 @@ function DropMenu({ cols, right }) {
     <div className={`mega-drop absolute top-[calc(100%+12px)] ${right ? 'right-0' : 'left-0'} bg-ink-soft rounded-2xl shadow-card-lg border border-white/10 p-7 flex gap-10 z-50 min-w-[640px]`}>
       {cols.map(({ title, items }) => (
         <div key={title} className="flex-1 min-w-[200px]">
-          <div className="text-[10px] font-bold tracking-[1.5px] uppercase text-white/30 mb-4 pb-2.5 border-b border-white/10">{title}</div>
+          <div className="text-[14px] font-bold tracking-[1.5px] uppercase text-white/30 mb-4 pb-2.5 border-b border-white/10">{title}</div>
           {items.map(({ icon: Icon, title: t, desc }) => (
             <a key={t} href="#" className="flex items-start gap-3 py-2.5 group cursor-pointer border-b border-white/5 last:border-0">
               <div className="w-8 h-8 bg-white/10 group-hover:bg-lime rounded-lg flex items-center justify-center flex-shrink-0 transition-colors duration-150">
