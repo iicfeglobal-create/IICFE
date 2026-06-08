@@ -271,7 +271,7 @@ export default function Navbar() {
                 href="#"
                 className="flex-1 py-3 text-center bg-ink text-white text-[13px] font-bold rounded-xl hover:bg-ink-soft transition-colors flex items-center justify-center gap-1.5"
               >
-                Apply Now <span className="text-lime">→</span>
+                Apply Now →
               </a>
             </div>
           </div>
