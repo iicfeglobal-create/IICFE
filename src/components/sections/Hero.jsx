@@ -120,7 +120,7 @@ export default function Hero() {
               </a>
             </div>
             {/* Right cards */}
-            <div className="flex flex-col gap-3 pb-10 min-w-[650px] flex-shrink-0">
+            <div className="flex flex-col gap-3 pb-10 min-w-[600px] min-h-[50px] flex-shrink-0">
               {badges.map(({ icon: Icon, label, sub, color }) => (
                 <div key={label} className="flex items-center gap-3 bg-white/[0.07] border border-white/10 rounded-xl px-4 py-3 hover:bg-white/10 transition-colors cursor-default">
                   <Icon size={18} className={color} />
