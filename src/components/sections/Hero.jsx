@@ -119,14 +119,14 @@ export default function Hero() {
                 Try it free <ArrowRight size={14} />
               </a>
             </div>
-            {/* Right cards */}
-            <div className="flex flex-col gap-3 pb-10 min-w-[600px] min-h-[50px] flex-shrink-0">
+            {/* Right cards — increased height via py-6 and min-h on container */}
+            <div className="flex flex-col gap-4 pb-10 min-w-[600px] flex-shrink-0">
               {badges.map(({ icon: Icon, label, sub, color }) => (
-                <div key={label} className="flex items-center gap-3 bg-white/[0.07] border border-white/10 rounded-xl px-4 py-3 hover:bg-white/10 transition-colors cursor-default">
-                  <Icon size={18} className={color} />
+                <div key={label} className="flex items-center gap-4 bg-white/[0.07] border border-white/10 rounded-xl px-6 py-6 hover:bg-white/10 transition-colors cursor-default">
+                  <Icon size={22} className={color} />
                   <div>
-                    <div className="text-[13px] font-semibold text-white">{label}</div>
-                    <div className="text-[11px] text-white/50">{sub}</div>
+                    <div className="text-[14px] font-semibold text-white">{label}</div>
+                    <div className="text-[12px] text-white/50 mt-0.5">{sub}</div>
                   </div>
                 </div>
               ))}
