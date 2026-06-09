@@ -72,7 +72,7 @@ export default function Hero() {
                 </div>
                 <div>
                   <div className="font-heading text-[14px] font-bold text-white">AI-Powered Socratic Assessment</div>
-                  <div className="text-[12px] text-white/50">Adaptive examination · Blockchain certified</div>
+                  <div className="text-[12px] text-white/50">Adaptive examination</div>
                 </div>
               </div>
             </div>
