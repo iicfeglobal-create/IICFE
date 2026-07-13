@@ -31,6 +31,7 @@ const navData = [
       {
         title: 'Get Started',
         items: [
+          { icon: Rocket, title: 'Student Entrepreneur', desc: 'The Founders Lab — 11 sessions, AI coaches & certification', href: '#/founders-lab' },
           { icon: Target, title: 'Find your pathway', desc: 'Which certification suits you?' },
           { icon: Calendar, title: 'Exam schedules', desc: 'Upcoming assessment dates globally' },
           { icon: Monitor, title: 'Online learning', desc: 'Self-paced modules and live cohorts' },
@@ -119,8 +120,8 @@ function DropMenu({ cols, right }) {
       {cols.map(({ title, items }) => (
         <div key={title} className="flex-1 min-w-[200px]">
           <div className="text-[14px] font-bold tracking-[1.5px] uppercase text-white/30 mb-4 pb-2.5 border-b border-white/10">{title}</div>
-          {items.map(({ icon: Icon, title: t, desc }) => (
-            <a key={t} href="#" className="flex items-start gap-3 py-2.5 group cursor-pointer border-b border-white/5 last:border-0">
+          {items.map(({ icon: Icon, title: t, desc, href }) => (
+            <a key={t} href={href || '#'} className="flex items-start gap-3 py-2.5 group cursor-pointer border-b border-white/5 last:border-0">
               <div className="w-8 h-8 bg-white/10 group-hover:bg-lime rounded-lg flex items-center justify-center flex-shrink-0 transition-colors duration-150">
                 <Icon size={14} className="text-white/60 group-hover:text-white transition-colors duration-150" />
               </div>
@@ -163,10 +164,10 @@ function MobileNavItem({ label, cols }) {
               </div>
               {/* Sub-items */}
               <div className="flex flex-col">
-                {items.map(({ icon: Icon, title: t, desc }) => (
+                {items.map(({ icon: Icon, title: t, desc, href }) => (
                   <a
                     key={t}
-                    href="#"
+                    href={href || '#'}
                     className="flex items-start gap-3 py-2.5 group border-b border-white/5 last:border-0"
                   >
                     <div className="w-7 h-7 bg-white/8 group-hover:bg-lime rounded-lg flex items-center justify-center flex-shrink-0 transition-colors duration-150 mt-0.5">
