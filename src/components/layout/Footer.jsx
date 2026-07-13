@@ -55,6 +55,17 @@ export default function Footer() {
 
       <div className="max-w-[1320px] mx-auto px-6 py-5 flex flex-col sm:flex-row justify-between items-center gap-3 text-[12px] text-white/55">
         <span>© 2026 IICFE Singapore Pte. Ltd. All rights reserved.</span>
+        <span>
+          Made by{' '}
+          <a
+            href="https://www.linkedin.com/in/parth-verma-576719371/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="font-semibold text-white/70 hover:text-lime transition-colors"
+          >
+            Parth
+          </a>
+        </span>
         <div className="flex flex-wrap justify-center gap-5">
           {['Privacy Policy','Terms of Use','Cookie Policy','Accreditation Standards','Sitemap'].map(l => (
             <a key={l} href="#" className="text-white/55 hover:text-white transition-colors">{l}</a>

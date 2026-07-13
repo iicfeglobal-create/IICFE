@@ -1,4 +1,4 @@
-import { useEffect } from 'react'
+import { useEffect, useState } from 'react'
 import UtilityNav from './components/layout/UtilityNav'
 import Navbar from './components/layout/Navbar'
 import Footer from './components/layout/Footer'
@@ -14,8 +14,20 @@ import GlobalExpansion from './components/sections/GlobalExpansion'
 import NewsEvents from './components/sections/NewsEvents'
 import MemberBanner from './components/sections/MemberBanner'
 import InsightStrip from './components/sections/InsightStrip'
+import FoundersLab from './founderslab/FoundersLab'
 
 export default function App() {
+  const [route, setRoute] = useState(window.location.hash)
+
+  useEffect(() => {
+    const onHash = () => {
+      setRoute(window.location.hash)
+      window.scrollTo({ top: 0, left: 0, behavior: 'instant' })
+    }
+    window.addEventListener('hashchange', onHash)
+    return () => window.removeEventListener('hashchange', onHash)
+  }, [])
+
   useEffect(() => {
     // Force scroll to top after React mounts — overrides browser scroll restoration
     // and clears any auto-focus that might scroll the page mid-way
@@ -24,6 +36,11 @@ export default function App() {
     }
     window.scrollTo({ top: 0, left: 0, behavior: 'instant' })
   }, [])
+
+  // Student Entrepreneur portal — full-page route, no marketing chrome
+  if (route.startsWith('#/founders-lab')) {
+    return <FoundersLab />
+  }
 
   return (
     <div className="min-h-screen">

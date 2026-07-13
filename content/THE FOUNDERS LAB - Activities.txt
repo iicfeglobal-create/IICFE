@@ -1,0 +1,174 @@
+﻿THE FOUNDERS LAB
+Flagship Activities 
+
+
+NO.
+	SESSION CONTEXT
+	ACTIVITY NAME
+	MECHANIC
+	1
+	Session 1 · Startup Ideation
+	Idea Blender
+	Spin the decks + swipe
+	2
+	Session 2 · Validating & Refining
+	Mom Test Trainer
+	Swipe (good vs leading)
+	3
+	Session 3 · Design Thinking
+	Empathy Map Builder
+	Drag-and-drop canvas
+	4
+	Session 4 · Decode the Market
+	Find Your Customer
+	Swipe (right = target)
+	5
+	Session 5 · Startup Ecosystem
+	Who's Who Sort
+	Tap-to-bucket
+	6
+	Session 6 · Product-Market Fit
+	MVP Slicer
+	Drag — but only 3 slots
+	7
+	Session 7 · Digital & Social Media Marketing
+	Face of the Brand
+	Tap / type quiz
+	8
+	Session 8 · Know Your Competition
+	Competitor 2×2 Plotter
+	Drag-to-plot on a grid
+	9
+	Session 9 · Financials
+	Price It Right
+	Single slider + live numbers
+	10
+	Session 10 · Pitch & Shark Tank
+	Pitch Deck Sequencer
+	Reorder the slides
+	11
+	Session 11 · Bespoke Mentoring
+	Founder Level Up
+	Tap-quiz + badge reveal
+	Each activity in detail
+
+
+1.  Idea Blender
+Session 1 · Startup Ideation   ·   Spin the decks + swipe
+Turns the scary blank-page moment of "think of a startup idea" into a playful slot-machine. Students mash random ingredients together, laugh at the weird combos, then sharpen the one that actually sparks something.
+How to play
+1.    Three decks sit on screen, a WHO deck (sleepy students, street vendors, busy moms…), a PROBLEM deck (food, boredom, money, transport…) and a TWIST deck (make it free, make it a game, add AI…).
+2.    Tap SPIN, each deck lands on a random card, giving a fresh combo like "busy moms + boredom + make it a game".
+3.    Swipe combos you like into a Shortlist; skip the ones that don't click. Spin as many times as you want.
+4.    Pick your favourite from the shortlist and complete one sentence: "We will help ___ with ___ by ___."
+What's to be done  →  3 shortlisted ideas + 1 refined idea sentence, the seed their Idea Canvas is built on.
+Advanced (Class 11–12):  Advanced students must justify why now (why this idea makes sense today) before locking it in.
+ 
+2.  Mom Test Trainer
+Session 2 · Validating & Refining   ·   Swipe (good vs leading)
+Real customer interviews happen offline in the session, this game trains the skill beforehand: asking questions that get honest answers instead of polite lies.
+How to play
+1.    An interview question flashes up, e.g. "Would you use an app that helps you study?"
+2.    Student swipes RIGHT for a good question or LEFT for a leading one.
+3.    Instant feedback explains WHY, good questions ask about the past and real behaviour, leading ones fish for a yes.
+4.    A score and streak build as they go; a short summary of the golden rules appears at the end.
+What's to be done  →  A score + the 4 Mom Test rules internalised, ready for their live interviews in the session.
+Advanced (Class 11–12):  Advanced round: rewrite a leading question into a good one and the game checks the shape of the answer.
+ 
+3.  Empathy Map Builder
+Session 3 · Design Thinking   ·   Drag-and-drop canvas
+Gets students inside their customer's head by sorting real observations into how the person speaks, thinks, acts and feels.
+How to play
+1.    A blank canvas shows four quadrants: SAY, THINK, DO, FEEL.
+2.    A bunch of sticky notes (things a real user said or did) sits at the bottom, students drag each into the right quadrant.
+3.    They can also add their own notes by typing onto a blank sticky.
+4.    When all four quadrants have notes, the map is complete and can be saved.
+What's to be done  →  A completed empathy map for their target customer.
+ 
+4.  Find Your Customer
+Session 4 · Decode the Market   ·   Swipe (right = target)
+Teaches that a startup is NOT for everyone. Students learn to name exactly who their customer is by rejecting who it isn't.
+How to play
+1.    Person-cards appear one at a time , "14-yr-old gamer", "tired mom of two", "hostel student", etc.
+2.    Swipe RIGHT if this person has the problem their startup solves, LEFT if they don't.
+3.    Every RIGHT collects into a growing "My Customers" panel.
+4.    At the end they review the list and pick their #1 ideal customer.
+What's to be done  →  A shortlist of target customers + one chosen ideal customer.
+Advanced (Class 11–12):  Advanced students add a one-line reason each person qualifies (or add a willingness-to-pay).
+ 
+5.  Who's Who Sort
+Session 5 · Startup Ecosystem   ·   Tap-to-bucket
+Introduces the five players every startup lives among, without a complicated diagram. Fast, scored, and repeatable.
+How to play
+1.    Real-world examples drop in one by one: a bank, a delivery rider, the local shopkeeper, a government office, your buyer.
+2.    Student taps which of the 5 roles it belongs to: Investor · Supplier · Partner · Regulator · Customer.
+3.    Correct taps build a score and streak; wrong taps show the right answer with a one-line why.
+4.    After the round, they list the real people/organisations in their OWN startup's ecosystem.
+What's to be done  →  The 5 ecosystem roles learned + their own ecosystem listed.
+Advanced (Class 11–12):  Advanced students name a real company for each role in their sector as well.
+ 
+6.  MVP Slicer
+Session 6 · Product-Market Fit   ·   Drag  but only 3 slots
+Teaches ruthless prioritisation. The lesson is the constraint: you literally cannot fit every feature, so you must choose.
+How to play
+1.    A pile of feature cards sits in the middle (e.g. login, chat, rewards, dark mode, notifications).
+2.    Two columns appear: MVP (only 3 slots) and LATER (unlimited).
+3.    Students drag features across  but the MVP column refuses a 4th card.
+4.    They must swap and rethink until only the 3 most essential features remain in MVP.
+What's to be done  →  Their 3 must-have MVP features + everything else parked in "Later".
+Advanced (Class 11–12):  Advanced students write one line on why each of the 3 is non-negotiable.
+ 
+7.  Face of the Brand
+Session 7 · Digital & Social Media Marketing   ·   Tap / type quiz
+Teaches founder-led marketing, the idea that people follow PEOPLE, not faceless logos. Every answer in the game is a human being, so the lesson lands on its own.
+How to play
+1.    A founder or creator's name appears, the student types (or picks) the brand that person built.
+2.    Instant right/wrong feedback, score and streak, using Indian creator and founder-led brands teens recognise.
+3.    Halfway through, a one-line insight surfaces: notice how every one of these brands has a human face people actually follow.
+4.    Final beat, the personal turn: "Who would be the face of YOUR startup, and why?" answered in one line.
+What's to be done  →  A set of correct guesses + a one-line decision on what type of a front facing “face or identity” do the funders want to create for their own startup.
+Advanced (Class 11–12):  Advanced students sketch a 4-post launch marketing ideas for their chosen founder-face.
+
+
+8.  Competitor 2×2 Plotter
+Session 8 · Know Your Competition   ·   Drag-to-plot on a grid
+Turns competitor analysis into a spatial hunt for the empty space on the map, the gap where their startup can win.
+How to play
+1.    A grid appears with two axes, e.g. Price (low→high) and Quality (low→high).
+2.    Students drag competitor dots onto the grid based on where each one sits.
+3.    As dots fill in, crowded and empty zones become obvious.
+4.    They drop their OWN startup into the emptiest, most valuable space.
+What's to be done  →  A competitor map + the identified market gap their startup will own.
+ 
+9.  Price It Right
+Session 9 · Financials   ·   Single slider + live numbers
+Makes money intuitive without any jargon. One product, one slider, and the whole price-vs-profit trade-off becomes a game of finding the sweet spot.
+How to play
+1.    One product on screen (say, a handmade friendship bracelet) with one control: a PRICE slider.
+2.    Slide it and two numbers update live — profit per bracelet, and how many people will buy at that price.
+3.    Price too high → nobody buys. Too low → no profit. A "total profit" meter reacts in real time.
+4.    Students hunt for the price that maxes total profit,  that's their score.
+What's to be done  →  Their chosen price + profit-per-unit figured out through play, no CAC/LTV needed for Class 8.
+Advanced (Class 11–12):  Advanced (Class 11–12) unlock a fixed-costs layer that reveals the break-even point.
+ 
+10.  Pitch Deck Sequencer
+Session 10 · Pitch & Shark Tank   ·   Reorder the slides
+Teaches the storytelling spine of a great pitch,  that order matters before students ever build the real deck.
+How to play
+1.    The 10 slide types appear shuffled: Problem, Solution, Market, Product, Traction, Business Model, Competition, Team, The Ask, Vision.
+2.    Students drag them into the order that tells the most convincing story.
+3.    The game confirms the strong sequence and explains why it flows that way.
+4.    For each slide they type one line about their own startup.
+What's to be done  →  A correctly ordered 10-slide skeleton, pre-filled with one line each — feeding straight into the pitch-deck chatbot.
+Advanced (Class 11–12):  Advanced students must open with a hook line and close with a clear ask.
+ 
+11.  Founder Level Up
+Session 11 · Bespoke Mentoring   ·   Tap-quiz + badge reveal
+A motivating self-check before the Makers Mela finale, a badge reveal, not a boring to-do list.
+How to play
+1.    5 quick questions, each answered with a tap: "Can you say your problem in one line?" → Yes / Sort of / Not yet.
+2.    Each answer fills a power bar a little more.
+3.    At the end a badge is revealed: Rookie → Rising Founder → Mela Ready.
+4.    One nudge appears on the single thing to fix before the finale.
+What's to be done  →  A shareable Founder Level badge + one clear next step before Makers Mela.
+Advanced (Class 11–12):  Advanced students get a tougher rubric and a stretch goal to reach the top badge.
